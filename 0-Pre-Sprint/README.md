@@ -1,98 +1,98 @@
-# Pre-sprint
+# Pré-sprint
 
-### Send out [Client Worksheet](Materials/Pre-Sprint_Client_Worksheet.md) and [Request for Materials](Materials/Pre-Sprint_Request_for_Materials.md)
+### Envie [Planilha do Cliente](Materials/Pre-Sprint_Client_Worksheet.md) e [Solicitação de Materiais](Materials/Pre-Sprint_Request_for_Materials.md)
 
-Notify all members of the sprint to set up the expectation of anything that they
-need to complete before the sprint and what to expect during the sprint.
+Notifique todos os membros do sprint para definir a expectativa de qualquer coisa que eles
+precisa ser concluído antes do sprint e o que esperar durante o sprint.
 
-### Review roles for the sprint
+### Revise as funções do sprint
 
-**Facilitator** Leads the design sprint. Guides the sprint from start to
-completion.
+**Facilitador** Lidera o design sprint. Guie o sprint do início ao
+conclusão.
 
-**Recorder** Takes notes, photographs and is in charge of the documentation for
-the sprint.
+**Gravador** Faz anotações, fotografa e se encarrega da documentação
+a corrida.
 
-**Product Owner** Typically the client and the person with the initial product vision.
-This person has final say in the product.
+**Produto Proprietário** Normalmente o cliente e a pessoa com a visão inicial do produto.
+Essa pessoa tem a palavra final sobre o produto.
 
-### Set expectations for the outcome for the sprint
+### Definir expectativas para o resultado do sprint
 
-Sometimes, design sprints converge on solutions that are
-partially or completely invalidated.
-Some things will have worked, and others won't.
-Make sure everyone understands that the outcome
-falls in one of three buckets:
+Às vezes, os design sprints convergem para soluções que são
+parcial ou totalmente invalidado.
+Algumas coisas terão funcionado e outras não.
+Certifique-se de que todos entendam que o resultado
+cai em um dos três baldes:
 
-- Most stuff worked
+- A maioria das coisas funcionou
 
-This often doesn't happen during the first sprint on a project,
-but if it happens to you,
-everyone on the team is probably on the same page about the fixes and
-tweaks you need to make.
+Isso geralmente não acontece durante o primeiro sprint de um projeto,
+mas se isso acontecer com você,
+todos na equipe provavelmente estão na mesma página sobre as correções e
+ajustes que você precisa fazer.
 
-What to do next: Take a week to tune your existing prototype. Create a backlog
-for developers to start implementation of the most important features or API
-integrations.
+O que fazer a seguir: Reserve uma semana para ajustar seu protótipo existente. Crie uma lista de pendências
+para os desenvolvedores iniciarem a implementação dos recursos ou API mais importantes
+integrações.
 
-- Some big questions
+-Algumas grandes questões
 
-A common outcome after a user study is a mixed bag: a few hits, a few
-tweaks, and a couple of real head-scratchers. Fortunately Keynote prototypes are
-easy to change, and as long as some parts of your design are solid, you can
-probably build on what you have.
+Um resultado comum após um estudo com usuários é uma mistura: alguns acessos, alguns
+ajustes e alguns verdadeiros arranhões na cabeça. Felizmente, os protótipos do Keynote são
+fácil de mudar e, desde que algumas partes do seu design sejam sólidas, você pode
+provavelmente desenvolva o que você tem.
 
-What to do next: You can move fast on the tweaks, but you’ll want to come up
-with multiple solutions for the bigger problems. Start your next sprint at step
+O que fazer a seguir: você pode avançar rapidamente nos ajustes, mas vai querer avançar
+com múltiplas soluções para os problemas maiores. Comece seu próximo sprint na etapa
 2 (diverge).
 
-- Everything exploded
+- Tudo explodiu
 
-We've seen a lot of designs go up in flames, and that's OK. You learned that
-something didn’t work, and it only took you a few hours to build it.
-This is great progress, and very cheap relative to building
-and launching a full product.
-Think what would have happened if you’d spent weeks or
-months implementing this solution!
+Vimos muitos designs pegarem fogo, e tudo bem. Você aprendeu isso
+algo não funcionou e você levou apenas algumas horas para construí-lo.
+Isto é um grande progresso e é muito barato em relação à construção
+e lançando um produto completo.
+Pense no que teria acontecido se você tivesse passado semanas ou
+meses implementando esta solução!
 
-What to do next: Start your next sprint back at the drawing board with step 1 (understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)
+O que fazer a seguir: Comece seu próximo sprint de volta à prancheta com a etapa 1 (entenda). (Dica: os resultados deste estudo são o material perfeito para revisar e construir entendimento como um grupo.)
 
-### Review design sprint documentation and schedule
+### Revise a documentação e o cronograma do design sprint
 
-The moderator of the sprint should be reviewing design sprint documentation and
-coming up with a plan specific to the project of feature set. **Typically done by the Facilitator.**
+O moderador do sprint deve revisar a documentação do design sprint e
+elaborar um plano específico para o projeto de conjunto de recursos. **Normalmente feito pelo Facilitador.**
 
 
-### Gather existing research and information
+### Reúna pesquisas e informações existentes
 
-Learning from previous product design sprints, existing product or other test
-and research done. **Typically done by the Product Owner.**
+Aprendendo com sprints de design de produto anteriores, produtos existentes ou outros testes
+e pesquisas feitas. **Normalmente feito pelo Product Owner.**
 
-### Capture existing competition
+### Capture a concorrência existente
 
-Any potential competition that solves the same or similar problem that the
-sprint is trying to solve. This should include lowest common denominator
-competitors such as email and offline tools. **Typically done by the Product Owner.**
+Qualquer concorrência potencial que resolva o mesmo problema ou um problema semelhante que o
+sprint está tentando resolver. Isso deve incluir o menor denominador comum
+concorrentes, como e-mail e ferramentas off-line. **Normalmente feito pelo Product Owner.**
 
-### Set up room
+### Configurar sala
 
-Make sure you have a room big enough to fit all of the people in the sprint. The
-room would have a whiteboard and a place to pin or tape up sketches. **Typically done by Facilitator.**
+Certifique-se de ter uma sala grande o suficiente para acomodar todas as pessoas do sprint. Chá
+a sala teria um quadro branco e um local para fixar ou colar esboços. **Normalmente feito pelo Facilitador.**
 
-### Buy supplies needed for sprint
+### Compre os suprimentos necessários para o sprint
 
-* Sharpies
+* Afiadores
 * Post-its
-* Blank sheets of Printer paper
-* Whiteboard markers
-* Circle vote stickers
-* Easel Pad
+* Folhas em branco de papel para impressora
+* Marcadores de quadro branco
+* Adesivos de votação em círculo
+* Almofada de cavalete
 
-**Typically done by Facilitator.**
+**Normalmente feito pelo Facilitador.**
 
-### Schedule 4–6 people for interviews / usability tests
+### Agende de 4 a 6 pessoas para entrevistas/testes de usabilidade
 
-Only if users are already identified. Otherwise this should be held off till
-after Understand. During [Test](../5-Test), we'll be running a user study, showing the
-prototype to 4–6 real people.
-**Typically done by Product Owner.**
+Somente se os usuários já estiverem identificados. Caso contrário, isso deve ser adiado até
+depois de entender. Durante o [Teste](../5-Test), realizaremos um estudo de usuário, mostrando o
+protótipo para 4 a 6 pessoas reais.
+**Normalmente feito pelo Proprietário do Produto.**
